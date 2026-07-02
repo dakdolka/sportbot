@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy>=2.0
+asyncmy
+pydantic
+pydantic-settings
+python-dotenv
